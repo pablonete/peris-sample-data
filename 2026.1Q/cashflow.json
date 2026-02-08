@@ -6,6 +6,7 @@
       "id": "cf-101",
       "date": "2026-01-01",
       "concept": "Carry over",
+      "bankName": "Unicaja",
       "bankSequence": 136,
       "balance": 22885.26
     },
@@ -13,6 +14,7 @@
       "id": "cf-102",
       "date": "2026-01-05",
       "concept": "GitHub subscription",
+      "bankName": "Unicaja",
       "bankSequence": 137,
       "expense": 19,
       "balance": 22866.26
@@ -21,6 +23,7 @@
       "id": "cf-103",
       "date": "2026-01-08",
       "concept": "Hetzner hosting",
+      "bankName": "Unicaja",
       "bankSequence": 138,
       "expense": 108.54,
       "balance": 22757.72
@@ -29,6 +32,7 @@
       "id": "cf-104",
       "date": "2026-01-12",
       "concept": "Acme Solutions - inv 001",
+      "bankName": "Unicaja",
       "bankSequence": 139,
       "income": 3872,
       "balance": 26629.72
@@ -37,6 +41,7 @@
       "id": "cf-105",
       "date": "2026-01-15",
       "concept": "WeWork coworking Jan",
+      "bankName": "Unicaja",
       "bankSequence": 140,
       "expense": 302.5,
       "balance": 26327.22
@@ -45,6 +50,7 @@
       "id": "cf-106",
       "date": "2026-01-28",
       "concept": "La Bodega Digital - inv 002",
+      "bankName": "Unicaja",
       "bankSequence": 141,
       "income": 1452,
       "balance": 27779.22
@@ -53,6 +59,7 @@
       "id": "cf-107",
       "date": "2026-02-03",
       "concept": "Seguridad Social Q1",
+      "bankName": "Unicaja",
       "bankSequence": 142,
       "expense": 960,
       "balance": 26819.22
@@ -61,6 +68,7 @@
       "id": "cf-108",
       "date": "2026-02-10",
       "concept": "Acme Solutions - inv 003",
+      "bankName": "Unicaja",
       "bankSequence": 143,
       "income": 3872,
       "balance": 30691.22
@@ -69,6 +77,7 @@
       "id": "cf-109",
       "date": "2026-02-15",
       "concept": "WeWork coworking Feb",
+      "bankName": "Unicaja",
       "bankSequence": 144,
       "expense": 302.5,
       "balance": 30388.72
@@ -77,9 +86,28 @@
       "id": "cf-110",
       "date": "2026-03-15",
       "concept": "WeWork coworking Mar",
+      "bankName": "Unicaja",
       "bankSequence": 145,
       "expense": 302.5,
       "balance": 30086.22
+    },
+    {
+      "id": "re-101",
+      "date": "2026-03-01",
+      "concept": "Transfer",
+      "bankName": "Revolut",
+      "bankSequence": 1,
+      "income": 100,
+      "balance": 100
+    },
+    {
+      "id": "re-102",
+      "date": "2026-03-10",
+      "concept": "Azure Sep25",
+      "bankName": "Revolut",
+      "bankSequence": 2,
+      "expense": 13.45,
+      "balance": 86.55
     }
   ]
 }
