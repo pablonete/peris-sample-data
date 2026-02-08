@@ -13,7 +13,8 @@
       }
     ],
     "total": 106.74,
-    "paymentDate": "2026-01-10"
+    "paymentDate": "2026-01-10",
+    "filename": "Microsoft Azure MSDN- Sample Invoice.pdf"
   },
   {
     "id": "exp-102",
@@ -38,7 +39,8 @@
       }
     ],
     "total": 302.5,
-    "paymentDate": "2026-01-22"
+    "paymentDate": "2026-01-22",
+    "filename": "Microsoft Azure PAYG - Sample Invoice.pdf"
   },
   {
     "id": "exp-104",
