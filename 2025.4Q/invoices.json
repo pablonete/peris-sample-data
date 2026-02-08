@@ -1,0 +1,66 @@
+[
+  {
+    "id": "inv-001",
+    "date": "2025-10-05",
+    "number": "2025-042",
+    "client": "Acme Solutions S.L.",
+    "concept": "Web development - October",
+    "subtotal": 3200,
+    "vat": 672,
+    "total": 3872,
+    "paymentDate": "2025-10-20"
+  },
+  {
+    "id": "inv-002",
+    "date": "2025-10-18",
+    "number": "2025-043",
+    "client": "Nordica Digital GmbH",
+    "concept": "UX consulting (40h)",
+    "subtotal": 2800,
+    "vat": 0,
+    "total": 2800,
+    "paymentDate": "2025-10-30"
+  },
+  {
+    "id": "inv-003",
+    "date": "2025-11-02",
+    "number": "2025-044",
+    "client": "Acme Solutions S.L.",
+    "concept": "Web development - November",
+    "subtotal": 3200,
+    "vat": 672,
+    "total": 3872,
+    "paymentDate": "2025-11-18"
+  },
+  {
+    "id": "inv-004",
+    "date": "2025-11-20",
+    "number": "2025-045",
+    "client": "La Bodega Digital S.L.",
+    "concept": "E-commerce setup",
+    "subtotal": 4500,
+    "vat": 945,
+    "total": 5445
+  },
+  {
+    "id": "inv-005",
+    "date": "2025-12-01",
+    "number": "2025-046",
+    "client": "Acme Solutions S.L.",
+    "concept": "Web development - December",
+    "subtotal": 3200,
+    "vat": 672,
+    "total": 3872,
+    "paymentDate": "2025-12-12"
+  },
+  {
+    "id": "inv-006",
+    "date": "2025-12-15",
+    "number": "2025-047",
+    "client": "Sunrise Ventures Ltd.",
+    "concept": "Mobile app prototype",
+    "subtotal": 5800,
+    "vat": 1218,
+    "total": 7018
+  }
+]

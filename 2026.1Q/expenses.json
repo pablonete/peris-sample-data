@@ -1,0 +1,116 @@
+[
+  {
+    "id": "exp-101",
+    "date": "2026-01-01",
+    "number": "A-9102",
+    "vendor": "Hetzner Online GmbH",
+    "concept": "Cloud server hosting (Jan-Mar)",
+    "vat": [
+      {
+        "subtotal": 89.7,
+        "rate": 19,
+        "amount": 17.04
+      }
+    ],
+    "total": 106.74,
+    "paymentDate": "2026-01-10"
+  },
+  {
+    "id": "exp-102",
+    "date": "2026-01-05",
+    "vendor": "GitHub Inc.",
+    "concept": "Team plan subscription",
+    "vat": [],
+    "total": 19,
+    "paymentDate": "2026-01-08"
+  },
+  {
+    "id": "exp-103",
+    "date": "2026-01-15",
+    "number": "F-2026-0051",
+    "vendor": "WeWork Spain S.L.",
+    "concept": "Coworking space - January",
+    "vat": [
+      {
+        "subtotal": 250,
+        "rate": 21,
+        "amount": 52.5
+      }
+    ],
+    "total": 302.5,
+    "paymentDate": "2026-01-22"
+  },
+  {
+    "id": "exp-104",
+    "date": "2026-01-31",
+    "number": "PRO-2601",
+    "vendor": "Copywriting Services Ltd.",
+    "concept": "Website copy and SEO content",
+    "vat": [
+      {
+        "subtotal": 600,
+        "rate": 21,
+        "amount": 126
+      }
+    ],
+    "taxRetention": 90,
+    "total": 636,
+    "paymentDate": "2026-02-10"
+  },
+  {
+    "id": "exp-105",
+    "date": "2026-02-03",
+    "vendor": "Seguridad Social",
+    "concept": "Self-employment contribution Q1",
+    "vat": [],
+    "total": 960,
+    "paymentDate": "2026-02-12"
+  },
+  {
+    "id": "exp-106",
+    "date": "2026-02-15",
+    "number": "F-2026-0112",
+    "vendor": "WeWork Spain S.L.",
+    "concept": "Coworking space - February",
+    "vat": [
+      {
+        "subtotal": 250,
+        "rate": 21,
+        "amount": 52.5
+      }
+    ],
+    "total": 302.5,
+    "paymentDate": "2026-02-22"
+  },
+  {
+    "id": "exp-107",
+    "date": "2026-03-05",
+    "number": "INV-0342",
+    "vendor": "Photography & Media Inc.",
+    "concept": "Product photography shoot",
+    "vat": [
+      {
+        "subtotal": 1200,
+        "rate": 10,
+        "amount": 120
+      }
+    ],
+    "total": 1320
+  },
+  {
+    "id": "exp-108",
+    "date": "2026-03-15",
+    "number": "F-2026-0188",
+    "vendor": "WeWork Spain S.L.",
+    "concept": "Coworking space - March",
+    "vat": [
+      {
+        "subtotal": 250,
+        "rate": 21,
+        "amount": 52.5
+      }
+    ],
+    "total": 302.5,
+    "paymentDate": "2026-03-22"
+  }
+]

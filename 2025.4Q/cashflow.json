@@ -1,0 +1,109 @@
+{
+  "companyName": "Nómada Digital S.L.",
+  "carryOver": 12450.3,
+  "entries": [
+    {
+      "id": "cf-001",
+      "date": "2025-10-01",
+      "concept": "Carry over",
+      "bankSequence": 123,
+      "balance": 12450.3
+    },
+    {
+      "id": "cf-002",
+      "date": "2025-10-05",
+      "concept": "GitHub subscription",
+      "bankSequence": 124,
+      "expense": 19,
+      "balance": 12431.3
+    },
+    {
+      "id": "cf-003",
+      "date": "2025-10-08",
+      "concept": "Hetzner hosting",
+      "bankSequence": 125,
+      "expense": 108.54,
+      "balance": 12322.76
+    },
+    {
+      "id": "cf-004",
+      "date": "2025-10-12",
+      "concept": "Acme Solutions - inv 042",
+      "bankSequence": 126,
+      "income": 3872,
+      "balance": 16194.76
+    },
+    {
+      "id": "cf-005",
+      "date": "2025-10-15",
+      "concept": "WeWork coworking Oct",
+      "bankSequence": 127,
+      "expense": 302.5,
+      "balance": 15892.26
+    },
+    {
+      "id": "cf-006",
+      "date": "2025-10-25",
+      "concept": "Nordica Digital - inv 043",
+      "bankSequence": 128,
+      "income": 2800,
+      "balance": 18692.26
+    },
+    {
+      "id": "cf-007",
+      "date": "2025-11-03",
+      "concept": "Seguridad Social Q4",
+      "bankSequence": 129,
+      "expense": 960,
+      "balance": 17732.26
+    },
+    {
+      "id": "cf-008",
+      "date": "2025-11-10",
+      "concept": "Acme Solutions - inv 044",
+      "bankSequence": 130,
+      "income": 3872,
+      "balance": 21604.26
+    },
+    {
+      "id": "cf-009",
+      "date": "2025-11-15",
+      "concept": "WeWork coworking Nov",
+      "bankSequence": 131,
+      "expense": 302.5,
+      "balance": 21301.76
+    },
+    {
+      "id": "cf-010",
+      "date": "2025-12-01",
+      "concept": "Figma annual plan",
+      "bankSequence": 132,
+      "expense": 144,
+      "balance": 21157.76
+    },
+    {
+      "id": "cf-011",
+      "date": "2025-12-05",
+      "concept": "Acme Solutions - inv 046",
+      "bankSequence": 133,
+      "income": 3872,
+      "balance": 25029.76
+    },
+    {
+      "id": "cf-012",
+      "date": "2025-12-10",
+      "concept": "VAT payment Q3",
+      "bankSequence": 134,
+      "expense": 1842,
+      "balance": 23187.76
+    },
+    {
+      "id": "cf-013",
+      "date": "2025-12-15",
+      "concept": "WeWork coworking Dec",
+      "bankSequence": 135,
+      "expense": 302.5,
+      "balance": 22885.26
+    }
+  ]
+}

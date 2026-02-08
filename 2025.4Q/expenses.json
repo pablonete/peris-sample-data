@@ -1,0 +1,160 @@
+[
+  {
+    "id": "exp-001",
+    "date": "2025-10-01",
+    "number": "A-8841",
+    "vendor": "Hetzner Online GmbH",
+    "concept": "Cloud server hosting (Oct-Dec)",
+    "vat": [
+      {
+        "subtotal": 89.7,
+        "rate": 19,
+        "amount": 17.04
+      }
+    ],
+    "total": 106.74,
+    "paymentDate": "2025-10-15"
+  },
+  {
+    "id": "exp-002",
+    "date": "2025-10-05",
+    "vendor": "GitHub Inc.",
+    "concept": "Team plan subscription",
+    "vat": [],
+    "total": 19,
+    "paymentDate": "2025-10-08"
+  },
+  {
+    "id": "exp-003",
+    "date": "2025-10-15",
+    "number": "F-2025-1190",
+    "vendor": "WeWork Spain S.L.",
+    "concept": "Coworking space - October",
+    "vat": [
+      {
+        "subtotal": 250,
+        "rate": 21,
+        "amount": 52.5
+      }
+    ],
+    "total": 302.5,
+    "paymentDate": "2025-10-20"
+  },
+  {
+    "id": "exp-004",
+    "date": "2025-10-22",
+    "number": "INV-5501",
+    "vendor": "Design & Branding Ltd.",
+    "concept": "Logo redesign and brand guidelines",
+    "vat": [
+      {
+        "subtotal": 800,
+        "rate": 21,
+        "amount": 168
+      }
+    ],
+    "taxRetention": 120,
+    "total": 848,
+    "paymentDate": "2025-11-05"
+  },
+  {
+    "id": "exp-005",
+    "date": "2025-11-03",
+    "vendor": "Seguridad Social",
+    "concept": "Self-employment contribution Q4",
+    "vat": [],
+    "total": 960,
+    "paymentDate": "2025-11-10"
+  },
+  {
+    "id": "exp-006",
+    "date": "2025-11-15",
+    "number": "F-2025-1245",
+    "vendor": "WeWork Spain S.L.",
+    "concept": "Coworking space - November",
+    "vat": [
+      {
+        "subtotal": 250,
+        "rate": 21,
+        "amount": 52.5
+      }
+    ],
+    "total": 302.5,
+    "paymentDate": "2025-11-22"
+  },
+  {
+    "id": "exp-007",
+    "date": "2025-12-01",
+    "number": "INV-44821",
+    "vendor": "Figma Inc.",
+    "concept": "Professional plan (annual)",
+    "vat": [],
+    "total": 144,
+    "paymentDate": "2025-12-05"
+  },
+  {
+    "id": "exp-008",
+    "date": "2025-12-10",
+    "vendor": "Agencia Tributaria",
+    "concept": "VAT payment Q3 (modelo 303)",
+    "vat": [],
+    "total": 1842,
+    "paymentDate": "2025-12-15"
+  },
+  {
+    "id": "exp-009",
+    "date": "2025-12-15",
+    "number": "F-2025-1301",
+    "vendor": "WeWork Spain S.L.",
+    "concept": "Coworking space - December",
+    "vat": [
+      {
+        "subtotal": 250,
+        "rate": 21,
+        "amount": 52.5
+      }
+    ],
+    "total": 302.5
+  },
+  {
+    "id": "exp-010",
+    "date": "2025-11-20",
+    "number": "CONS-2501",
+    "vendor": "Tech Consulting S.L.",
+    "concept": "Mixed consulting services (reduced and standard rate)",
+    "vat": [
+      {
+        "subtotal": 1000,
+        "rate": 10,
+        "amount": 100
+      },
+      {
+        "subtotal": 900,
+        "rate": 21,
+        "amount": 189
+      }
+    ],
+    "total": 2189,
+    "paymentDate": "2026-01-10"
+  },
+  {
+    "id": "exp-011",
+    "date": "2025-12-05",
+    "number": "TRAIN-0445",
+    "vendor": "Training & Development Ltd.",
+    "concept": "Employee training (exempt and standard rate)",
+    "vat": [
+      {
+        "subtotal": 1500,
+        "rate": 0,
+        "amount": 0
+      },
+      {
+        "subtotal": 1000,
+        "rate": 21,
+        "amount": 210
+      }
+    ],
+    "total": 2710
+  }
+]
