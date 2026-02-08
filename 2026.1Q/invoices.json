@@ -8,7 +8,8 @@
     "subtotal": 3200,
     "vat": 672,
     "total": 3872,
-    "paymentDate": "2026-01-20"
+    "paymentDate": "2026-01-20",
+    "filename": "F01-26.pdf"
   },
   {
     "id": "inv-102",
@@ -19,7 +20,8 @@
     "subtotal": 1200,
     "vat": 252,
     "total": 1452,
-    "paymentDate": "2026-02-02"
+    "paymentDate": "2026-02-02",
+    "filename": "F02-26.pdf"
   },
   {
     "id": "inv-103",
