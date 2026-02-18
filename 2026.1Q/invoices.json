@@ -6,6 +6,7 @@
     "client": "Acme Solutions S.L.",
     "concept": "Web development - January",
     "subtotal": 3200,
+    "vatRate": 21,
     "vat": 672,
     "total": 3872,
     "paymentDate": "2026-01-20",
@@ -18,6 +19,7 @@
     "client": "La Bodega Digital S.L.",
     "concept": "E-commerce maintenance (Jan)",
     "subtotal": 1200,
+    "vatRate": 21,
     "vat": 252,
     "total": 1452,
     "paymentDate": "2026-02-02",
@@ -30,6 +32,7 @@
     "client": "Acme Solutions S.L.",
     "concept": "Web development - February",
     "subtotal": 3200,
+    "vatRate": 21,
     "vat": 672,
     "total": 3872,
     "paymentDate": "2026-02-28"
@@ -41,6 +44,7 @@
     "client": "Sunrise Ventures Ltd.",
     "concept": "Mobile app phase 2",
     "subtotal": 6200,
+    "vatRate": 21,
     "vat": 1302,
     "total": 7502
   },
@@ -51,6 +55,7 @@
     "client": "Acme Solutions S.L.",
     "concept": "Web development - March",
     "subtotal": 3200,
+    "vatRate": 21,
     "vat": 672,
     "total": 3872
   }
