@@ -6,6 +6,7 @@
     "client": "Acme Solutions S.L.",
     "concept": "Web development - October",
     "subtotal": 3200,
+    "vatRate": 21,
     "vat": 672,
     "total": 3872,
     "paymentDate": "2025-10-20"
@@ -17,6 +18,7 @@
     "client": "Nordica Digital GmbH",
     "concept": "UX consulting (40h)",
     "subtotal": 2800,
+    "vatRate": 0,
     "vat": 0,
     "total": 2800,
     "paymentDate": "2025-10-30"
@@ -28,6 +30,7 @@
     "client": "Acme Solutions S.L.",
     "concept": "Web development - November",
     "subtotal": 3200,
+    "vatRate": 21,
     "vat": 672,
     "total": 3872,
     "paymentDate": "2025-11-18"
@@ -39,6 +42,7 @@
     "client": "La Bodega Digital S.L.",
     "concept": "E-commerce setup",
     "subtotal": 4500,
+    "vatRate": 21,
     "vat": 945,
     "total": 5445
   },
@@ -49,6 +53,7 @@
     "client": "Acme Solutions S.L.",
     "concept": "Web development - December",
     "subtotal": 3200,
+    "vatRate": 21,
     "vat": 672,
     "total": 3872,
     "paymentDate": "2025-12-12"
@@ -60,6 +65,7 @@
     "client": "Sunrise Ventures Ltd.",
     "concept": "Mobile app prototype",
     "subtotal": 5800,
+    "vatRate": 21,
     "vat": 1218,
     "total": 7018
   }
