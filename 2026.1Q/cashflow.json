@@ -1,13 +1,11 @@
 {
   "companyName": "Nómada Digital S.L.",
-  "carryOver": 22885.26,
   "entries": [
     {
       "id": "cf-101",
       "date": "2026-01-01",
       "concept": "Carry over",
       "bankName": "Unicaja",
-      "bankSequence": 136,
       "balance": 22885.26
     },
     {
