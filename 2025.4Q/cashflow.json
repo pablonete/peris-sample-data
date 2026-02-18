@@ -1,12 +1,10 @@
 {
   "companyName": "Nómada Digital S.L.",
-  "carryOver": 12450.3,
   "entries": [
     {
       "id": "cf-001",
       "date": "2025-10-01",
       "concept": "Carry over",
-      "bankSequence": 123,
       "balance": 12450.3
     },
     {
