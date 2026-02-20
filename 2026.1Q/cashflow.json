@@ -14,6 +14,7 @@
       "concept": "GitHub subscription",
       "bankName": "Unicaja",
       "bankSequence": 137,
+      "category": "online",
       "expense": 19,
       "periodicity": "1mo",
       "balance": 22866.26
@@ -24,6 +25,7 @@
       "concept": "Hetzner hosting",
       "bankName": "Unicaja",
       "bankSequence": 138,
+      "category": "online",
       "expense": 108.54,
       "balance": 22757.72
     },
@@ -43,6 +45,7 @@
       "concept": "WeWork coworking Jan",
       "bankName": "Unicaja",
       "bankSequence": 140,
+      "category": "coworking",
       "expense": 302.5,
       "periodicity": "1mo",
       "balance": 26327.22
@@ -63,6 +66,7 @@
       "concept": "Seguridad Social Q1",
       "bankName": "Unicaja",
       "bankSequence": 142,
+      "category": "tax.social-security",
       "expense": 960,
       "periodicity": "3mo",
       "balance": 26819.22
@@ -83,6 +87,7 @@
       "concept": "WeWork coworking Feb",
       "bankName": "Unicaja",
       "bankSequence": 144,
+      "category": "coworking",
       "expense": 302.5,
       "periodicity": "1mo",
       "balance": 30388.72
@@ -93,6 +98,7 @@
       "concept": "WeWork coworking Mar",
       "bankName": "Unicaja",
       "bankSequence": 145,
+      "category": "coworking",
       "expense": 302.5,
       "expenseId": "exp-102",
       "periodicity": "1mo",
@@ -113,6 +119,7 @@
       "concept": "Azure Sep25",
       "bankName": "Revolut",
       "bankSequence": 2,
+      "category": "online",
       "expense": 13.45,
       "expenseId": "[2025.4Q]exp-002",
       "periodicity": "1mo",
