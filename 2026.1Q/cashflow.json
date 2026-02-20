@@ -15,6 +15,7 @@
       "bankName": "Unicaja",
       "bankSequence": 137,
       "expense": 19,
+      "periodicity": "1mo",
       "balance": 22866.26
     },
     {
@@ -43,6 +44,7 @@
       "bankName": "Unicaja",
       "bankSequence": 140,
       "expense": 302.5,
+      "periodicity": "1mo",
       "balance": 26327.22
     },
     {
@@ -62,6 +64,7 @@
       "bankName": "Unicaja",
       "bankSequence": 142,
       "expense": 960,
+      "periodicity": "3mo",
       "balance": 26819.22
     },
     {
@@ -81,6 +84,7 @@
       "bankName": "Unicaja",
       "bankSequence": 144,
       "expense": 302.5,
+      "periodicity": "1mo",
       "balance": 30388.72
     },
     {
@@ -91,6 +95,7 @@
       "bankSequence": 145,
       "expense": 302.5,
       "expenseId": "exp-102",
+      "periodicity": "1mo",
       "balance": 30086.22
     },
     {
@@ -110,6 +115,7 @@
       "bankSequence": 2,
       "expense": 13.45,
       "expenseId": "[2025.4Q]exp-002",
+      "periodicity": "1mo",
       "balance": 86.55
     }
   ]
