@@ -1,129 +1,126 @@
-{
-  "companyName": "Nómada Digital S.L.",
-  "entries": [
-    {
-      "id": "cf-101",
-      "date": "2026-01-01",
-      "concept": "Carry over",
-      "bankName": "Unicaja",
-      "balance": 22885.26
-    },
-    {
-      "id": "cf-102",
-      "date": "2026-01-05",
-      "concept": "GitHub subscription",
-      "bankName": "Unicaja",
-      "bankSequence": 137,
-      "category": "online",
-      "expense": 19,
-      "periodicity": "1mo",
-      "balance": 22866.26
-    },
-    {
-      "id": "cf-103",
-      "date": "2026-01-08",
-      "concept": "Hetzner hosting",
-      "bankName": "Unicaja",
-      "bankSequence": 138,
-      "category": "online",
-      "expense": 108.54,
-      "balance": 22757.72
-    },
-    {
-      "id": "cf-104",
-      "date": "2026-01-12",
-      "concept": "Acme Solutions - inv 001",
-      "bankName": "Unicaja",
-      "bankSequence": 139,
-      "income": 3872,
-      "invoiceId": "inv-101",
-      "balance": 26629.72
-    },
-    {
-      "id": "cf-105",
-      "date": "2026-01-15",
-      "concept": "WeWork coworking Jan",
-      "bankName": "Unicaja",
-      "bankSequence": 140,
-      "category": "coworking",
-      "expense": 302.5,
-      "periodicity": "1mo",
-      "balance": 26327.22
-    },
-    {
-      "id": "cf-106",
-      "date": "2026-01-28",
-      "concept": "La Bodega Digital - inv 002",
-      "bankName": "Unicaja",
-      "bankSequence": 141,
-      "income": 1452,
-      "invoiceId": "inv-102",
-      "balance": 27779.22
-    },
-    {
-      "id": "cf-107",
-      "date": "2026-02-03",
-      "concept": "Seguridad Social Q1",
-      "bankName": "Unicaja",
-      "bankSequence": 142,
-      "category": "tax.social-security",
-      "expense": 960,
-      "periodicity": "3mo",
-      "balance": 26819.22
-    },
-    {
-      "id": "cf-108",
-      "date": "2026-02-10",
-      "concept": "Acme Solutions - inv 003",
-      "bankName": "Unicaja",
-      "bankSequence": 143,
-      "income": 3872,
-      "invoiceId": "inv-103",
-      "balance": 30691.22
-    },
-    {
-      "id": "cf-109",
-      "date": "2026-02-15",
-      "concept": "WeWork coworking Feb",
-      "bankName": "Unicaja",
-      "bankSequence": 144,
-      "category": "coworking",
-      "expense": 302.5,
-      "periodicity": "1mo",
-      "balance": 30388.72
-    },
-    {
-      "id": "cf-110",
-      "date": "2026-03-15",
-      "concept": "WeWork coworking Mar",
-      "bankName": "Unicaja",
-      "bankSequence": 145,
-      "category": "coworking",
-      "expense": 302.5,
-      "expenseId": "exp-102",
-      "periodicity": "1mo",
-      "balance": 30086.22
-    },
-    {
-      "id": "re-101",
-      "date": "2026-03-01",
-      "concept": "Transfer",
-      "bankName": "Revolut",
-      "bankSequence": 1,
-      "income": 100,
-      "balance": 100
-    },
-    {
-      "id": "re-102",
-      "date": "2026-03-10",
-      "concept": "Azure Sep25",
-      "bankName": "Revolut",
-      "bankSequence": 2,
-      "category": "online",
-      "expense": 13.45,
-      "expenseId": "[2025.4Q]exp-002",
-      "periodicity": "1mo",
-      "balance": 86.55
-    }
-  ]
-}
+[
+  {
+    "id": "cf-101",
+    "date": "2026-01-01",
+    "concept": "Carry over",
+    "bankName": "Unicaja",
+    "balance": 22885.26
+  },
+  {
+    "id": "cf-102",
+    "date": "2026-01-05",
+    "concept": "GitHub subscription",
+    "bankName": "Unicaja",
+    "bankSequence": 137,
+    "category": "online",
+    "expense": 19,
+    "periodicity": "1mo",
+    "balance": 22866.26
+  },
+  {
+    "id": "cf-103",
+    "date": "2026-01-08",
+    "concept": "Hetzner hosting",
+    "bankName": "Unicaja",
+    "bankSequence": 138,
+    "category": "online",
+    "expense": 108.54,
+    "balance": 22757.72
+  },
+  {
+    "id": "cf-104",
+    "date": "2026-01-12",
+    "concept": "Acme Solutions - inv 001",
+    "bankName": "Unicaja",
+    "bankSequence": 139,
+    "income": 3872,
+    "invoiceId": "inv-101",
+    "balance": 26629.72
+  },
+  {
+    "id": "cf-105",
+    "date": "2026-01-15",
+    "concept": "WeWork coworking Jan",
+    "bankName": "Unicaja",
+    "bankSequence": 140,
+    "category": "coworking",
+    "expense": 302.5,
+    "periodicity": "1mo",
+    "balance": 26327.22
+  },
+  {
+    "id": "cf-106",
+    "date": "2026-01-28",
+    "concept": "La Bodega Digital - inv 002",
+    "bankName": "Unicaja",
+    "bankSequence": 141,
+    "income": 1452,
+    "invoiceId": "inv-102",
+    "balance": 27779.22
+  },
+  {
+    "id": "cf-107",
+    "date": "2026-02-03",
+    "concept": "Seguridad Social Q1",
+    "bankName": "Unicaja",
+    "bankSequence": 142,
+    "category": "tax.social-security",
+    "expense": 960,
+    "periodicity": "3mo",
+    "balance": 26819.22
+  },
+  {
+    "id": "cf-108",
+    "date": "2026-02-10",
+    "concept": "Acme Solutions - inv 003",
+    "bankName": "Unicaja",
+    "bankSequence": 143,
+    "income": 3872,
+    "invoiceId": "inv-103",
+    "balance": 30691.22
+  },
+  {
+    "id": "cf-109",
+    "date": "2026-02-15",
+    "concept": "WeWork coworking Feb",
+    "bankName": "Unicaja",
+    "bankSequence": 144,
+    "category": "coworking",
+    "expense": 302.5,
+    "periodicity": "1mo",
+    "balance": 30388.72
+  },
+  {
+    "id": "cf-110",
+    "date": "2026-03-15",
+    "concept": "WeWork coworking Mar",
+    "bankName": "Unicaja",
+    "bankSequence": 145,
+    "category": "coworking",
+    "expense": 302.5,
+    "expenseId": "exp-102",
+    "periodicity": "1mo",
+    "balance": 30086.22
+  },
+  {
+    "id": "re-101",
+    "date": "2026-03-01",
+    "concept": "Transfer",
+    "bankName": "Revolut",
+    "bankSequence": 1,
+    "income": 100,
+    "balance": 100
+  },
+  {
+    "id": "re-102",
+    "date": "2026-03-10",
+    "concept": "Azure Sep25",
+    "bankName": "Revolut",
+    "bankSequence": 2,
+    "category": "online",
+    "expense": 13.45,
+    "expenseId": "[2025.4Q]exp-002",
+    "periodicity": "1mo",
+    "balance": 86.55
+  }
+]
