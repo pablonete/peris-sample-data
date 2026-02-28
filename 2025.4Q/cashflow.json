@@ -75,7 +75,8 @@
     "concept": "Figma annual plan",
     "bankSequence": 132,
     "expense": 144,
-    "balance": 21157.76
+    "balance": 21157.76,
+    "periodicity": "1y"
   },
   {
     "id": "cf-011",
@@ -87,11 +88,12 @@
   },
   {
     "id": "cf-012",
-    "date": "2025-12-10",
+    "date": "2025-20-12",
     "concept": "VAT payment Q3",
     "bankSequence": 134,
     "expense": 1842,
-    "balance": 23187.76
+    "balance": 23187.76,
+    "periodicity": "3mo"
   },
   {
     "id": "cf-013",
